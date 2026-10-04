@@ -1,0 +1,7 @@
+Filename,GT_Heat,Pred_Heat,GT_Dim,Pred_Dim,GT_Defect,Pred_Defects,GT_Status,Pred_Status,Latency_ms
+billet_fail_crazing.jpg,H727624R2.1,H72762AP2.1,125.0x125.0,124.2x124.9,crazing,"patches, patches, patches, patches, patches, patches, patches",FAIL,FAIL,603.6
+billet_fail_dimension_wide.jpg,H727626R1.0,K721626P10,131.8x125.2,131.4x125.3,None,None,FAIL,FAIL,589.2
+billet_fail_inclusion.jpg,H727627R3.0,H721627F2.0,125.0x124.5,124.9x124.5,inclusion,"inclusion, inclusion",FAIL,FAIL,496.0
+billet_fail_scratches.jpg,H727625R1.0,K727625P1.0,125.2x124.8,124.9x124.9,scratches,"patches, scratches",FAIL,FAIL,494.0
+billet_pass_01.jpg,H727622R1.0,H727622F1.0,125.1x124.9,124.2x124.9,None,None,PASS,PASS,605.1
+billet_pass_02.jpg,H727623R1.0,K727623P1.6,126.2x125.5,125.6x125.6,None,None,PASS,PASS,594.0
